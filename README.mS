@@ -10,7 +10,8 @@
 - 🔭 I’m currently working on: **college student**
 - 💬 Ask me about: **software developer**
 - 📫 How to reach me: [sanjeevk30674@gmail.com](mailto:sanjeevk30674@gmail.com)
-- ⚡ Fun fact: **sports**
+- 📄 **[My Resume](https://docs.google.com/document/d/1BKgLTVh_tPRRwiKXddByLNozCLmMgRa_/edit?usp=sharing&ouid=100500738459525973004&rtpof=true&sd=true)**
+- ⚡ Fun fact: **💻 I enjoy turning ideas into code and learning something new every day.**
 
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
@@ -23,6 +24,9 @@
   </a>
   <a href="https://instagram.com/sanjeev_586" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://facebook.com/Sanjeev kumar" target="_blank" rel="noreferrer noopener" title="Facebook" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" height="35" width="35" style="vertical-align: middle;"/>
   </a>
 </p>
 </div>
