@@ -1,4 +1,6 @@
-<!-- Invalid Banner URL provided -->
+<p align="center">
+  <img src="https://drive.google.com/file/d/14SEnqoUsVOnsv9AfUbCXF0bnpIAFFE7U/view?usp=drivesdk" alt="Profile Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Sanjeev kumar!</h1>
 
