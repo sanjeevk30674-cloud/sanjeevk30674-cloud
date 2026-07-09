@@ -1,8 +1,19 @@
+
 <p align="center">
   <img src="https://drive.google.com/file/d/14SEnqoUsVOnsv9AfUbCXF0bnpIAFFE7U/view?usp=drivesdk" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanjeev kumar!</h1>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sanjeevk30674-cloud&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="sanjeevk30674-cloud's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeevk30674-cloud&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=sanjeevk30674-cloud&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjeevk30674-cloud&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/sanjeevk30674-cloud" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @sanjeevk30674-cloud" /></a>
+</p>
 
 <h3 align="center">CSE student | Exploring DSA, OS, DBMS & system design | Building projects with C/C++, Python & Git | Always learning 🚀</h3>
 
@@ -50,13 +61,3 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sanjeevk30674-cloud&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="sanjeevk30674-cloud's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeevk30674-cloud&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=sanjeevk30674-cloud&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeevk30674-cloud&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/sanjeevk30674-cloud" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @sanjeevk30674-cloud" /></a>
-</p>
